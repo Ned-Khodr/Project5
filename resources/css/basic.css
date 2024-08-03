@@ -1,0 +1,23 @@
+#container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between
+}
+
+header {
+  display: flex;
+  justify-content: left;
+}
+
+h1 {
+  color: blue;
+}
+
+nav {
+  display: flex;
+  justify-content: right;
+}
+
+nav h3 {
+  display: inline-flex;
+}
